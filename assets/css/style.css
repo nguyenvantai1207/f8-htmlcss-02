@@ -293,7 +293,7 @@ a {
 }
 
 .popular .info {
-  width: 458px;
+  width: 100%;
 }
 
 .popular .desc {
